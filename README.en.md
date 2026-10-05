@@ -13,24 +13,23 @@ Each chapter is a separate folder with these files:
 
 ## Course Outline
 
-| No. | Chapter | Hours (lectures / practice) |
-|---|--------|----------------------|
-| 01 | Introduction to Algorithmization | 2 / 2 |
-| 02 | Flowcharts and Pseudocode | 2 / 2 |
-| 03 | Python Basics | 2 / 2 |
-| 04 | Linear Algorithms | 2 / 2 |
-| 05 | Branching | 2 / 4 |
-| 06 | Loops | 4 / 4 |
-| 07 | Strings | 2 / 4 |
-| 08 | Lists (One-Dimensional Arrays) | 4 / 4 |
-| 09 | Matrices (Two-Dimensional Arrays) | 2 / 4 |
-| 10 | Functions and Recursion | 4 / 4 |
-| 11 | Sorting and Searching | 4 / 4 |
-| 12 | Dictionaries, Sets, Tuples | 2 / 4 |
-| 13 | Files and Error Handling | 2 / 2 |
-| 14 | Fundamentals of OOP | 4 / 4 |
-| 15 | Algorithm Complexity | 2 / 2 |
-| | **Total** | **40 / 48** |
+| No. | Chapter |
+|---|--------|
+| 01 | Introduction to Algorithmization |
+| 02 | Flowcharts and Pseudocode |
+| 03 | Python Basics |
+| 04 | Linear Algorithms |
+| 05 | Branching |
+| 06 | Loops |
+| 07 | Strings |
+| 08 | Lists (One-Dimensional Arrays) |
+| 09 | Matrices (Two-Dimensional Arrays) |
+| 10 | Functions and Recursion |
+| 11 | Sorting and Searching |
+| 12 | Dictionaries, Sets, Tuples |
+| 13 | Files and Error Handling |
+| 14 | Fundamentals of OOP |
+| 15 | Algorithm Complexity |
 
 ## How to Work with the Material
 
